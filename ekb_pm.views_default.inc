@@ -203,6 +203,7 @@ function ekb_pm_views_default_views() {
     'type' => 'role',
     'role' => array(
       3 => 3,
+      28 => 28,
     ),
   ));
   $handler->override_option('cache', array(
